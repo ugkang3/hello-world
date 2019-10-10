@@ -45,6 +45,7 @@ int main()
 			}
 		}
 	}
+	std::cout << "The input array is a Latin square";
 
 	return 0;
 }
